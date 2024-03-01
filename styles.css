@@ -1,0 +1,50 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+}
+
+.left-hand {
+	font-size: 11px;
+	color: #565959;
+	margin-right: 20px;
+}
+
+
+.main-img {
+	width: 250px;
+	box-shadow: 0px 2px 5px lightgray;
+}
+
+
+.title {
+	font-weight: lighter;
+}
+
+.ratings {
+	width: 90px;
+	margin-top: 0px;
+}
+
+.container {
+	display: flex;
+}
+
+.metadata {
+	margin: 0px 40px;
+}
+
+.review-title {
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.small-font {
+	margin: 0px auto;
+	font-size: 14px;
+}
+
+.link-color {
+	color: #007185;
+}
